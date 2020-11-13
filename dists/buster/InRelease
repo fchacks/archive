@@ -1,0 +1,54 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Origin: rpi
+Label: rpi
+Codename: buster
+Date: Mon, 02 Nov 2020 22:36:30 UTC
+Architectures: arm64 armel armhf
+Components: main
+Description: FCHacks Apt repository for rpi
+MD5Sum:
+ fd744d4a43a4ee062fe1dab5382b2cb5 491 main/binary-arm64/Packages
+ 5ba9a210a05883114f94ff5c3d3415c0 362 main/binary-arm64/Packages.gz
+ 913277cb906b83aaf765a2e7e6247c59 103 main/binary-arm64/Release
+ d41d8cd98f00b204e9800998ecf8427e 0 main/binary-armel/Packages
+ 7029066c27ac6f5ef18d660d5741979a 20 main/binary-armel/Packages.gz
+ 73957dcd6535edb03354f310ba6506cd 103 main/binary-armel/Release
+ d41d8cd98f00b204e9800998ecf8427e 0 main/binary-armhf/Packages
+ 7029066c27ac6f5ef18d660d5741979a 20 main/binary-armhf/Packages.gz
+ a5d4ebeb079c3c117d721efe6bacee98 103 main/binary-armhf/Release
+SHA1:
+ 91cef30fb0bda73c14a4ed43cf5c519829df9413 491 main/binary-arm64/Packages
+ a9b78402a53bf2ec147ab81b53fb44f9c903c52d 362 main/binary-arm64/Packages.gz
+ 09c40f282413f6b097ce91074ca53963314d3e3c 103 main/binary-arm64/Release
+ da39a3ee5e6b4b0d3255bfef95601890afd80709 0 main/binary-armel/Packages
+ 46c6643f07aa7f6bfe7118de926b86defc5087c4 20 main/binary-armel/Packages.gz
+ 42ca9ddcde0c86378e653cf0cd19beeab31f4d49 103 main/binary-armel/Release
+ da39a3ee5e6b4b0d3255bfef95601890afd80709 0 main/binary-armhf/Packages
+ 46c6643f07aa7f6bfe7118de926b86defc5087c4 20 main/binary-armhf/Packages.gz
+ cf02de3b2fdb1682fd328c726c1cb6c430ebf258 103 main/binary-armhf/Release
+SHA256:
+ b8f2cb2a0031e84a1014be0a534e61cbdb6fd0b114d7a77ca2d9b6c4ce294828 491 main/binary-arm64/Packages
+ 828e3f933d4b578c26148477191cffa120a6abbd9f4214d5511b251a0062579d 362 main/binary-arm64/Packages.gz
+ 217ddb1f500146ecc2401e6073896d561be4ae13c7713ac331b4f58b1d3b54c1 103 main/binary-arm64/Release
+ e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855 0 main/binary-armel/Packages
+ 59869db34853933b239f1e2219cf7d431da006aa919635478511fabbfc8849d2 20 main/binary-armel/Packages.gz
+ d9463e8427f1c14ed6d71c16d55e13879b96b81a01bc4f2a19a2de2e9111816a 103 main/binary-armel/Release
+ e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855 0 main/binary-armhf/Packages
+ 59869db34853933b239f1e2219cf7d431da006aa919635478511fabbfc8849d2 20 main/binary-armhf/Packages.gz
+ 00a62aee6d235813f4a576d10c00fae49f24cfff9b5f2bed3d79b25e1a22a01a 103 main/binary-armhf/Release
+-----BEGIN PGP SIGNATURE-----
+
+iQGzBAEBCgAdFiEExn5x+/C0SkoOlRl09t5to3ksDQwFAl+gifMACgkQ9t5to3ks
+DQzG0QwAkghQSQvM35ep+5/PUUMovTiT/b0p9yKXQYw/dBQ/2mMTROdHbd5IZLsk
+6AA7mUWJXhIxdlA7PptHXmxRB/oJFAcY2YPtUmttY2L5nWWwR1UN4Q4PU8TKHt3n
+8WMRSIjk7JvooWiaq0TgXC4QeBkxGzOSXXv7JdwZ/bVCpYu3KI4x+cI+qOePCTlf
+/45KaKiIRowTXchyXzMJ69BCeBV3nAM85d8HO4Soudqd0PI/8Hg+LTsbmrDRkxM+
+Br8N0LYk2fVg+OsUTgOqIvF1NsEEgr4OEH+nx0CWMVmCFkk/2fcNCe66xt0GTY+5
+pLpj2nUInGt5xzUsvzjvBODVEDTYtwlI6KEmBXeO6QsEEUvJj03RmSGVKUQK9gYD
+oRVG1/gRrcoFykuDdkN3ElHS7RJeMGHdvN+yH7EPgADjwJtTDhjdTID5yWN0CNVf
+TW+jIuqscohU4egz7tvD6lEik7hewgTu7P0S4oXchrs0wsX1VuyKVgBHrKQUoee1
+aZIvr8lF
+=1DJ/
+-----END PGP SIGNATURE-----

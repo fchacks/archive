@@ -1,0 +1,16 @@
+Package: code-server
+Version: 3.6.1
+Architecture: arm64
+Maintainer: Anmol Sethi <hi@nhooyr.io>
+Vendor: Coder
+Installed-Size: 315214
+Homepage: https://github.com/cdr/code-server
+Priority: optional
+Section: devel
+Filename: pool/main/c/code-server/code-server_3.6.1_arm64.deb
+Size: 93503380
+SHA256: 61c14cc1262aaf4671df29cf06a5afa893afe282b31448719b85271f717b80ae
+SHA1: e09e891b15ec0fdd14a1c4e7d32fb154e53eab2f
+MD5sum: e9d4eb852d9b8d1caf5f3cd027032a05
+Description: Run VS Code in the browser.
+

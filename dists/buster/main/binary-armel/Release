@@ -1,0 +1,5 @@
+Component: main
+Origin: rpi
+Label: rpi
+Architecture: armel
+Description: FCHacks Apt repository for rpi
